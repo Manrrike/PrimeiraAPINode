@@ -10,11 +10,4 @@ void saudacao()
 {
     print("Ola, turma");
 }
-double calcularMedia(double n1, double n2){
-    return (n1 + n2 ) / 2;
-
-}
-String situacao(double media){
-    return media >= 7 ? "Aprovado" : "Reprovado";
-
-}X
+c
